@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bertrand Pellerin</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="" target="blank"><img align="center" src="https://visualpharm.com/assets/892/Website-595b40b65ba036ed117d3f78.svg" alt="@bepellerin" height="30" width="40" /></a>
+  <a href="https://bepellerin.github.io/" target="blank"><img align="center" src="https://visualpharm.com/assets/892/Website-595b40b65ba036ed117d3f78.svg" alt="@bepellerin" height="30" width="40" /></a>
 <a href="https://dev.to/@bepellerin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@bepellerin" height="30" width="40" /></a>
 </p>
 
