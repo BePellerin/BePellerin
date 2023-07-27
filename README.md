@@ -6,7 +6,6 @@
 <div align="left"><h2>$\color{#404158}{Connect}$ $\color{#404158}{with }$ $\color{#404158}{me}$</h2>
 <a href="https://bepellerin.github.io/" target="_blank" rel="noreferrer"><img align="center" src="https://visualpharm.com/assets/892/Website-595b40b65ba036ed117d3f78.svg" alt="@bepellerin" height="40"/></a>
 <a href="https://www.linkedin.com/in/bertrandpellerin/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="@bepellerin" height="40"/></a>
-<a href="https://dev.to/@bepellerin" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@bepellerin" height="40"/></a>
 <br>
 <br>
 <br>
