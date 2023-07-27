@@ -1,6 +1,6 @@
 <img align="left" height="300" src="https://media.tenor.com/BoSpQB028gAAAAAd/flat-design.gif">
 <br><br>
-<h1 align="center">$\color{#404158}{Hi,}$ 👋 $\color{#F3718C}{I'm}$ $\color{#72D0D1}{Bertrand}$ $\color{#FAC374}{Pellerin}$</h1>
+<h1 align="center">$\color{#404158}{Hi,}$ 👋</h1>
 <br><br><br><br><br><br><br><br><br>
 <img align="right" height="150" src="https://i.giphy.com/media/LwHaQCGZMdD9Ghalrl/giphy.webp">
 <div align="left"><h2>$\color{#404158}{Connect}$ $\color{#404158}{with }$ $\color{#404158}{me}$</h2>
