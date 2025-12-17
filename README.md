@@ -1,6 +1,6 @@
 <img align="left" height="300" src="https://media.tenor.com/BoSpQB028gAAAAAd/flat-design.gif">
 <br><br>
-<h1 align="center" style="border:none;">Hi 👋</h1>
+<h1 align="center" style="border:none !important;">Hi 👋</h1>
 <br><br><br><br><br><br><br><br><br>
 <img align="right" height="150" src="https://i.giphy.com/media/LwHaQCGZMdD9Ghalrl/giphy.webp">
 <div align="left"><h2>Connect with me</h2>
